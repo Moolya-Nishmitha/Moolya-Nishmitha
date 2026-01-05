@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=200&section=header&text=Moolya%20Nishmitha&fontSize=60&fontColor=fdb9c8&animation=twinkling&desc=Cybersecurity%20Engineer%20•%20Star%20Hollow%20Resident&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=200&section=header&text=Moolya%20Nishmitha&fontSize=60&fontColor=fdb9c8&animation=twinkling&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Star%20Hollow%20Resident&descAlignY=70" />
 </p>
+
 
 <div align="center">
 
