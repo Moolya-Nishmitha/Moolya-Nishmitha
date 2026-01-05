@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=200&section=header&text=Moolya%20Nishmitha&fontSize=60&fontColor=fdb9c8&animation=twinkling&desc=Cybersecurity%20Engineer%20|%20Coffee%20Enthusiast&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1a1a&height=200&section=header&text=Moolya%20Nishmitha&fontSize=60&fontColor=fdb9c8&animation=twinkling&desc=Cybersecurity%20Engineer%20•%20Star%20Hollow%20Resident&descAlignY=70" />
 </p>
 
 <div align="center">
@@ -14,11 +14,9 @@
 
 ### 📖 The Gilmore Philosophy
 <p align="center">
-  <img src="https://64.media.tumblr.com/793d5f653493e83896504a7970d4f54c/tumblr_inline_p8vzmzM9f11uyv5v7_540.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2YWs1D4oQ4H5C3S0/giphy.gif" width="450" />
   <br>
-  <i>"Who cares if I'm pretty if I'm failin' my finals?" — Rory Gilmore</i>
-  <br>
-  <sub>(Me, but about my security certifications.)</sub>
+  <b>"Who cares if I'm pretty if I'm failin' my finals?"</b>
 </p>
 
 ---
@@ -26,22 +24,22 @@
 ### 🛡️ Technical Arsenal
 | Category | Stack |
 | :--- | :--- |
-| **Security** | `Kali Linux` `Burp Suite` `Wireshark` `OWASP` |
+| **Security** | `Kali Linux` `Burp Suite` `Wireshark` `Metasploit` |
 | **DevOps** | `Docker` `AWS` `Terraform` `CI/CD` |
 | **Code** | `Python` `Bash` `Go` `JavaScript` |
 
 ---
 
-### 🕹️ Let's Play: Tic-Tac-Toe
-*Want to take a break from hacking? Play a game against the bot!*
+### 🕹️ Interactive: Tic-Tac-Toe
 <p align="center">
-  <a href="https://github.com/jvns/tic-tac-toe-readme">
-    <img src="https://raw.githubusercontent.com/jvns/tic-tac-toe-readme/main/view.png" width="300" />
-  </a>
+  <img src="https://raw.githubusercontent.com/muesli/tic-tac-toe/master/img/tictactoe.png" width="400" />
+  <br>
+  <i>To play a real game on GitHub, most engineers use an automated workflow.</i>
 </p>
-<p align="center">
-  <sub>Click the board in the original repo to start a new game!</sub>
-</p>
+
+> **Note:** Truly interactive games on GitHub require a **GitHub Action**. 
+> 1. [Click here](https://github.com/new) to create a new repo called `tic-tac-toe`.
+> 2. Use this [Tic-Tac-Toe Generator](https://github.com/timburgan/timburgan) to link it!
 
 ---
 
@@ -54,7 +52,7 @@
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Moolya-Nishmitha&label=Cups%20of%20Coffee%20Consumed&color=fdb9c8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Moolya-Nishmitha&label=Security%20Requests%20Processed&color=fdb9c8&style=flat-square" />
 </p>
 
 <p align="center">
