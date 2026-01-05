@@ -17,42 +17,50 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2YWs1D4oQ4H5C3S0/giphy.gif" width="450" />
   <br>
   <b>"Who cares if I'm pretty if I'm failin' my finals?"</b>
-</p>
-
----
-
-### 🛡️ Technical Arsenal
-| Category | Stack |
-| :--- | :--- |
-| **Security** | `Kali Linux` `Burp Suite` `Wireshark` `Metasploit` |
-| **DevOps** | `Docker` `AWS` `Terraform` `CI/CD` |
-| **Code** | `Python` `Bash` `Go` `JavaScript` |
-
----
-
-### 🕹️ Interactive: Tic-Tac-Toe
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muesli/tic-tac-toe/master/img/tictactoe.png" width="400" />
   <br>
-  <i>To play a real game on GitHub, most engineers use an automated workflow.</i>
+  <sub>Prioritizing technical excellence and continuous learning.</sub>
 </p>
-
-> **Note:** Truly interactive games on GitHub require a **GitHub Action**. 
-> 1. [Click here](https://github.com/new) to create a new repo called `tic-tac-toe`.
-> 2. Use this [Tic-Tac-Toe Generator](https://github.com/timburgan/timburgan) to link it!
 
 ---
 
-### 📊 System Vital Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Moolya-Nishmitha&show_icons=true&theme=visual_studio_code&hide_border=false&title_color=fdb9c8&icon_color=fdb9c8&border_radius=10" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moolya-Nishmitha&layout=compact&theme=visual_studio_code&hide_border=false&title_color=fdb9c8&border_radius=10" height="170" />
+### 🛡️ Core Security Competencies
+
+| Domain | Technical Proficiency |
+| :--- | :--- |
+| **Offensive Security** | `Web Pentesting` `Vulnerability Assessment` `Metasploit` `Burp Suite` |
+| **Defensive Strategy** | `Network Hardening` `SIEM` `Threat Hunting` `Incident Response` |
+| **Cloud Security** | `AWS IAM` `CloudTrail` `Docker Security` `Terraform` |
+| **Compliance** | `OWASP Top 10` `NIST Framework` `MITRE ATT&CK` `GDPR` |
+
+---
+
+### 🛠️ Technical Skill Set
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4B00?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
+
+---
+
+### 🐈‍⬛ Featured Research & Projects
+* **Network Defense Lab:** Infrastructure-as-Code (IaC) templates for secure cloud deployments.
+* **Vulnerability Research:** Documentation and write-ups on OWASP Top 10 exploits.
 
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Moolya-Nishmitha&label=Security%20Requests%20Processed&color=fdb9c8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Moolya-Nishmitha&label=Threats%20Mitigated&color=fdb9c8&style=flat-square" />
 </p>
 
 <p align="center">
