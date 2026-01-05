@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# ˚ ༘ 👑 𝓜𝓲𝓼𝓱𝓶𝓲𝓽𝓱𝓪'𝓼 𝓒𝓸𝓷𝓼𝓽𝓮𝓵𝓵𝓪𝓽𝓲𝓸𝓷 𝓸𝓯 𝓒𝓸𝓭𝓮 👑 ༘ ˚
+# ˚ ༘  N𝓲𝓼𝓱𝓶𝓲𝓽𝓱𝓪'𝓼 Homedepot  ༘ ˚
 
 ---
 
@@ -29,7 +29,7 @@
 ### 🛠️ 𝓒𝓸𝓼𝓶𝓲𝓬 𝓒𝓻𝓮𝓪𝓽𝓲𝓸𝓷 𝓚𝓲𝓽 (𝓢𝓴𝓲𝓵𝓵𝓼)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,py,git,sass,tailwind,bootstrap,threejs&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,py,git,tailwind,bootstrap,threejs&theme=light&perline=6" />
   </a>
 </p>
 
