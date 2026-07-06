@@ -1,64 +1,77 @@
 <div align="center">
 
-# ☕ 𝕮𝖞𝖇𝖊𝖗𝖘𝖊𝖈𝖚𝖗𝖎𝖙𝖞 & 𝕮𝖔𝖋𝖋𝖊𝖊
+# ☕ Cybersecurity & Coffee
 
-"I live in two worlds. One is a world of books... the other is a world of encrypted packets."
+*"I read packets more often than people."* 🐈‍⬛
 
 </div>
 
+<br>
+
+```bash
+> whoami
+
+Computer Science Student
+Cybersecurity Enthusiast
+Python • Linux • Networking
+```
+
 ---
 
-### 📖 The Gilmore Philosophy
+### 🐈 about
+
+```txt
+building things
+breaking things (ethically)
+trying to understand how the internet actually works
+```
+
+---
+
+### ⚡ stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-ffb6d9?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-ffcce5?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-f8b4d9?style=for-the-badge&logo=git&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-fce4ec?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Python%20Sockets-f7b2d9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-f9c6df?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-fde7f2?style=for-the-badge&logo=wireshark&logoColor=black" />
+
+</p>
+
+---
+
+### 🩷 github
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2YWs1D4oQ4H5C3S0/giphy.gif" width="450" />
-  <br>
-  <b>"Who cares if I'm pretty if I'm failin' my finals?"</b>
-  <br>
-  <sub>Prioritizing technical excellence and continuous learning.</sub>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=f7a8c8&icon_color=f7a8c8&text_color=d9d9d9"/>
 
-### 🛡️ Core Security Competencies
-
-| Domain | Technical Proficiency |
-| :--- | :--- |
-| **Offensive Security** | `Web Pentesting` `Vulnerability Assessment` `Metasploit` `Burp Suite` |
-| **Defensive Strategy** | `Network Hardening` `SIEM` `Threat Hunting` `Incident Response` |
-| **Cloud Security** | `AWS IAM` `CloudTrail` `Docker Security` `Terraform` |
-| **Compliance** | `OWASP Top 10` `NIST Framework` `MITRE ATT&CK` `GDPR` |
-
----
-
-### 🛠️ Technical Skill Set
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF4B00?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
----
-
-### 🐈‍⬛ Featured Research & Projects
-* **Network Defense Lab:** Infrastructure-as-Code (IaC) templates for secure cloud deployments.
-* **Vulnerability Research:** Documentation and write-ups on OWASP Top 10 exploits.
-
----
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Moolya-Nishmitha&label=Threats%20Mitigated&color=fdb9c8&style=flat-square" />
 </p>
 
 <p align="center">
-  🐈‍⬛ 🌌 <sub><i>"In omnia paratus"</i></sub>
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=transparent&hide_border=true&ring=f7a8c8&fire=f7a8c8&currStreakLabel=f7a8c8"/>
+
 </p>
+
+---
+
+### 🐍
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake-pink.svg" />
+
+</p>
+
+---
+
+<div align="center">
+
+🐈 ☕ 🌸
+
+</div>
