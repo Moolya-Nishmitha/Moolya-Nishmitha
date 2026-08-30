@@ -162,6 +162,22 @@ Python-based log analyzer that parses authentication logs and identifies failed 
 + Build a strong cybersecurity portfolio
 ```
 
+# `~/contributions`
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Moolya-Nishmitha/Moolya-Nishmitha/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Moolya-Nishmitha/Moolya-Nishmitha/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Moolya-Nishmitha/Moolya-Nishmitha/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 <p align="center">
   <i>There is always another vulnerability to find.</i>
