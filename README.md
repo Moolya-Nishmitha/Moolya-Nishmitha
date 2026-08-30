@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-  <code>[ SYSTEM ONLINE ]</code>
-  &nbsp;•&nbsp;
-  <code>[ SECURITY RESEARCH ]</code>
-  &nbsp;•&nbsp;
-  <code>[ STATUS: BUILDING ]</code>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF1493?style=for-the-badge&labelColor=0B0014"/>
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FF1493?style=for-the-badge&labelColor=0B0014"/>
+  <img src="https://img.shields.io/badge/MODE-LEARNING-FF1493?style=for-the-badge&labelColor=0B0014"/>
 </p>
 
 <p align="center">
@@ -18,6 +16,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=github&logoColor=E8A9C4"/>
   </a>
 </p>
+
+
 
 ```bash
 $ whoami
@@ -38,6 +38,10 @@ BUILDING.
 ```
 
 ---
+```bash
+> connection established
+> identity verified
+> entering workspace...
 
 ## `~/about`
 
