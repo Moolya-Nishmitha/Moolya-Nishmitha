@@ -1,11 +1,13 @@
-<h1 align="center">
-  <span style="color:#E8A9C4;">NISHMITHA</span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,50:2A0738,100:FF1493&height=190&section=header&text=NISHMITHA&fontSize=68&fontColor=FFB6D9&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20CYBER%20FORENSICS&descAlignY=67&descSize=16&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <b>Cybersecurity & Cyber Forensics Student</b>
-  <br>
-  <sub>Learning • Building • Breaking • Analyzing</sub>
+  <code>[ SYSTEM ONLINE ]</code>
+  &nbsp;•&nbsp;
+  <code>[ SECURITY RESEARCH ]</code>
+  &nbsp;•&nbsp;
+  <code>[ STATUS: BUILDING ]</code>
 </p>
 
 <p align="center">
@@ -13,11 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/moolya-nishmitha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=github&logoColor=E8A9C4"/>
   </a>
 </p>
-
----
 
 ```bash
 $ whoami
