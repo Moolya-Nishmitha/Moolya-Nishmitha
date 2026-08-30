@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,50:2A0738,100:FF1493&height=190&section=header&text=NISHMITHA&fontSize=68&fontColor=FFB6D9&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20CYBER%20FORENSICS&descAlignY=67&descSize=16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:24002F,70:6A075C,100:FF1493&height=210&section=header&text=NISHMITHA&fontSize=72&fontColor=FFE4F1&fontFamily=Arial%20Black&fontAlignY=40&stroke=FF1493&strokeWidth=1&desc=CYBERSECURITY%20%2F%2F%20CYBER%20FORENSICS&descAlignY=65&descSize=17&descColor=F8BBD9&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF1493?style=for-the-badge&labelColor=0B0014"/>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FF1493?style=for-the-badge&labelColor=0B0014"/>
-  <img src="https://img.shields.io/badge/MODE-LEARNING-FF1493?style=for-the-badge&labelColor=0B0014"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-FF1493?style=for-the-badge&labelColor=090014"/>
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-FF1493?style=for-the-badge&labelColor=090014"/>
+  <img src="https://img.shields.io/badge/MODE-LEARNING-FF1493?style=for-the-badge&labelColor=090014"/>
 </p>
 
 <p align="center">
@@ -13,42 +13,23 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/moolya-nishmitha/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=github&logoColor=E8A9C4"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
-
-```bash
-$ whoami
-
-nishmitha
-
-$ cat /etc/role
-
-Cybersecurity & Cyber Forensics Student
-
-$ cat /etc/focus
-
-Web Security • Digital Forensics • Networking • Threat Detection
-
-$ echo $STATUS
-
-BUILDING.
-```
-
----
-```bash
+```text
 > connection established
 > identity verified
 > entering workspace...
+```
+
+---
 
 ## `~/about`
 
 I'm a **Cybersecurity & Cyber Forensics student** interested in understanding how systems work, how they break, and how attacks can be detected and investigated.
 
 Currently learning through **hands-on projects, security labs, CTFs, networking, digital forensics, and experimentation.**
-
 
 ---
 
@@ -79,80 +60,6 @@ Currently learning through **hands-on projects, security labs, CTFs, networking,
 
 ---
 
-# `~/projects`
-
-### 🐝 SentinelHive
-
-`🚧 IN PROGRESS`
-
-**Honeypot → Detection → Intelligence → SOC**
-
-A cybersecurity lab I'm building around a honeypot environment to capture malicious activity, analyze attacker behavior, detect suspicious activity, map techniques to **MITRE ATT&CK**, and visualize security events through a SOC-style dashboard.
-
-`Python` `Linux` `Honeypot` `MITRE ATT&CK` `SOC`
-
----
-
-### ⏳ CHRONOS
-
-`🚧 IN PROGRESS`
-
-**Forensic Artifacts → Correlation → Confidence → Timeline**
-
-A digital forensics project I'm developing to reconstruct reliable timelines from multiple forensic artifacts and identify potentially manipulated timestamps.
-
-`Python` `Digital Forensics` `Timeline Analysis` `Anti-Forensics`
-
----
-
-### 🎣 Phishing Detection System
-
-`🟡 DEVELOPING`
-
-**Input → TF-IDF → ML Model → Prediction**
-
-A machine-learning based phishing detection system using **TF-IDF + Logistic Regression** to classify suspicious content.
-
-`Python` `Machine Learning` `TF-IDF` `Logistic Regression`
-
----
-
-### 🔑 2FA Authentication System
-
-`🟢 BUILT`
-
-**Credentials + Second Factor = Access**
-
-Authentication system built using **Express.js + MongoDB**, implementing two-factor authentication.
-
-`Node.js` `Express.js` `MongoDB`
-
----
-
-### 🌐 Network Scanner
-
-`🟢 BUILT`
-
-**Scan → Enumerate → Understand**
-
-Python-based network scanner for discovering hosts and services in controlled environments.
-
-`Python` `Networking` `Nmap`
-
----
-
-### 🔎 SOC Log Analyzer
-
-`🟢 BUILT`
-
-**Logs → Indicators → Detection**
-
-Python-based log analyzer that parses authentication logs and identifies failed login attempts and suspicious activity patterns.
-
-`Python` `Linux` `Log Analysis`
-
----
-
 # `~/objectives`
 
 ```diff
@@ -165,6 +72,8 @@ Python-based log analyzer that parses authentication logs and identifies failed 
 + Learn defensive detection
 + Build a strong cybersecurity portfolio
 ```
+
+---
 
 # `~/contributions`
 
@@ -182,10 +91,10 @@ Python-based log analyzer that parses authentication logs and identifies failed 
   </picture>
 </p>
 
+---
 
 <p align="center">
   <i>There is always another vulnerability to find.</i>
   <br><br>
-  🔐
+  
 </p>
-
